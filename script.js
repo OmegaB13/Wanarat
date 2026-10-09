@@ -145,7 +145,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="article-section">
                     <div class="article-title">มาตรา ๑๖ — การลักทรัพย์</div>
                     <p class="indent"><strong>วรรค ๑</strong> ผู้ใดเอาทรัพย์ของผู้อื่นไปโดยทุจริต โดยเจ้าของมิได้ยินยอม ผู้นั้นมีความผิดฐานลักทรัพย์</p>
-                    <p class="penalty">โทษ: ปรับไม่เกิน ๔๐0 บาท และจำคุก ๑๐ นาที และ คืนทรัพย์ที่ถูกขโมยแก่เหยื่อ</p>
+                    <p class="penalty">โทษ: ปรับไม่เกิน ๔๐๐ บาท และจำคุก ๑๐ นาที และ คืนทรัพย์ที่ถูกขโมยแก่เหยื่อ</p>
                 </div>
                 <div class="article-section">
                     <div class="article-title">มาตรา ๑๗ — การทำลายทรัพย์สิน</div>
