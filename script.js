@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
             chapter: "หมวดที่ ๑",
             title: "บททั่วไป",
             pageNum: "๑",
-            topPageText: "หน้า ๑ / ๗",
+            topPageText: "หน้า ๑ / ๘",
             body: `
                 <div style="text-align: center; margin-bottom: 25px;">
                     <h2 style="font-size: 20px; font-weight: 700; margin-bottom: 6px;">บทที่ ๑</h2>
@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
             chapter: "หมวดที่ ๒",
             title: "ว่าด้วยสิทธิและหน้าที่ของราษฎร",
             pageNum: "๒",
-            topPageText: "หน้า ๒ / ๗",
+            topPageText: "หน้า ๒ / ๘",
             body: `
                 <div class="article-section">
                     <div class="article-title">มาตรา ๕</div>
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
             chapter: "หมวดที่ ๓",
             title: "ว่าด้วยความสงบเรียบร้อย",
             pageNum: "๓",
-            topPageText: "หน้า ๓ / ๗",
+            topPageText: "หน้า ๓ / ๘",
             body: `
                 <div class="article-section">
                     <div class="article-title">มาตรา ๘ — การสร้างความรบกวนผู้คนภายในเมืองต่าง ๆ ของเมือง</div>
@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', () => {
             chapter: "หมวดที่ ๔",
             title: "ว่าด้วยอาวุธ",
             pageNum: "๔",
-            topPageText: "หน้า ๔ / ๗",
+            topPageText: "หน้า ๔ / ๘",
             body: `
                 <div class="article-section">
                     <div class="article-title">มาตรา ๑๑ — การพกพาอาวุธ</div>
@@ -113,7 +113,7 @@ document.addEventListener('DOMContentLoaded', () => {
             chapter: "หมวดที่ ๕",
             title: "ว่าด้วยเจ้าหน้าที่และอำนาจแห่งทางการ",
             pageNum: "๕",
-            topPageText: "หน้า ๕ / ๗",
+            topPageText: "หน้า ๕ / ๘",
             body: `
                 <div class="article-section">
                     <div class="article-title">มาตรา ๓๓</div>
@@ -140,12 +140,12 @@ document.addEventListener('DOMContentLoaded', () => {
             chapter: "หมวดที่ ๖",
             title: "ว่าด้วยทรัพย์สินและการลักทรัพย์",
             pageNum: "๖",
-            topPageText: "หน้า ๖ / ๗",
+            topPageText: "หน้า ๖ / ๘",
             body: `
                 <div class="article-section">
                     <div class="article-title">มาตรา ๑๖ — การลักทรัพย์</div>
                     <p class="indent"><strong>วรรค ๑</strong> ผู้ใดเอาทรัพย์ของผู้อื่นไปโดยทุจริต โดยเจ้าของมิได้ยินยอม ผู้นั้นมีความผิดฐานลักทรัพย์</p>
-                    <p class="penalty">โทษ: ปรับไม่เกิน ๔๐๐ บาท และจำคุก ๑๐ นาที และ คืนทรัพย์ที่ถูกขโมยแก่เหยื่อ</p>
+                    <p class="penalty">โทษ: ปรับไม่เกิน ๔๐0 บาท และจำคุก ๑๐ นาที และ คืนทรัพย์ที่ถูกขโมยแก่เหยื่อ</p>
                 </div>
                 <div class="article-section">
                     <div class="article-title">มาตรา ๑๗ — การทำลายทรัพย์สิน</div>
@@ -162,10 +162,25 @@ document.addEventListener('DOMContentLoaded', () => {
             `
         },
         {
+            chapter: "หมวดที่ ๗",
+            title: "ว่าด้วยเรื่องเหตุน้ำมัน",
+            pageNum: "๗",
+            topPageText: "หน้า ๗ / ๘",
+            body: `
+                <div class="article-section">
+                    <div class="article-title">มาตรา ๑๙ — เหตุน้ำมันและการยึดของกลาง</div>
+                    <p class="indent"><strong>วรรค ๑</strong> ผู้ใดก่อเหตุหรือกระทำความผิดอันเกี่ยวเนื่องกับเหตุน้ำมันภายในเขตเมือง ผู้นั้นมีความผิด</p>
+                    <p class="penalty">โทษ: ปรับ ๓๐๐ บาท และยึดของกลางชิ้นละ ๑๐๐ บาท</p>
+                    <p class="indent"><strong>วรรค ๒</strong> อัตราโทษจำคุก คิดอัตรา ๑ ชั่วโมง มีค่าเท่ากับ ๑๐๐ บาท โดยกำหนดเวลาปล่อยตัวผู้ต้องหาออกจากเรือนจำให้ปล่อย ณ เวลาเที่ยงวัน (๑๒:๐๐ น.) เสมอ</p>
+                    <p class="indent"><strong>วรรค ๓</strong> หากผู้ใดกระทำความผิดหลังเวลา ๐๕:๐๐ น. ให้เปลี่ยนกำหนดเวลาปล่อยตัวจากเที่ยงวันเป็นเวลา ๑๘:๐๐ น. (๖ โมงเย็น)</p>
+                </div>
+            `
+        },
+        {
             chapter: "อัตราโทษ",
             title: "อัตราโทษโดยสังเขป",
-            pageNum: "๗",
-            topPageText: "หน้า ๗ / ๗",
+            pageNum: "๘",
+            topPageText: "หน้า ๘ / ๘",
             body: `
                 <!-- 1. หมวดระดับความผิด -->
                 <div class="penalty-group">
