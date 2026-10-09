@@ -67,7 +67,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <div class="article-title">มาตรา ๘.๑</div>
                     <p class="indent"><strong>วรรค ๑</strong> ห้ามใช้พาหนะในเขตชุมชนให้ลงก่อนเข้าบริเวณชุมชน
                     หากผู้ใดฝ่าฝืนผู้นั้นย่อมมีความผิด</p>
-                    <p class="penalty">โทษ: ตักเตือนในครั้งแรก ปรับไม่เกิน ๓๐๐ บาท และริบการอนุญาตขับขี่พาหนะในเขตเมือง 3 ชั่วโมง</p>
+                    <p class="penalty">โทษ: ตักเตือนในครั้งแรก ปรับไม่เกิน ๓๐๐ บาท และริบการอนุญาตขับขี่พาหนะในเขตเมือง 3 ชั่วโมง (ในเมือง)</p>
                 </div>
                 <div class="article-section">
                     <div class="article-title">มาตรา ๙ — การทำร้ายร่างกาย</div>
